@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=220&section=header&text=Hi%20I'm%20Pranay%20👋&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=220&section=header&text=Hi%20I'm%20Pranay!%20👋&fontSize=40&fontColor=ffffff" />
 </p>
 
 
