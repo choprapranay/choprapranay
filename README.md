@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=220&section=header&text=Hi%20I'm%20Pranay%20👋&fontSize=50&fontColor=ffffff&desc= &descSize=15" />
+</p>
+
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **choprapranay/choprapranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
