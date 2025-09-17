@@ -31,7 +31,7 @@ Second year U of T St. George Computer Science student looking for opportunities
   Created and launched a custom [WordPress website]() to grow the firm’s online presence and streamline client onboarding.
 
 - **Digital Transformation Intern – Milton Pickleball Association (Summer 2025)**  
-  Revamped the [association website]() and implemented an integrated booking & membership system, streamlining sign-ups and driving membership growth.
+  Revamped the [association website](miltonpickleball.com) and implemented an integrated booking & membership system, streamlining sign-ups and driving membership growth.
 
 - **Partnership Coordinator – Kurius**  
   Secured funding and resources through both monetary and in-kind sponsorships valuing over $100,000 from companies like Metro, HyperX, Wolfram Alpha.
