@@ -5,6 +5,7 @@
 
 ## 👨‍💻 About Me
 Second year U of T St. George Computer Science student looking for opportunities to grow as a Software Developer. I firmly believe in the transformative power of technology and am always looking forward to building my skills!
+
 ---
 
 ## 🛠️ Tech Stack
